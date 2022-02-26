@@ -28,3 +28,13 @@
 |++Fortnite+Release-7.30.0-CL-4834550-Android|[Download](https://dw.uptodown.com/dwn/Fu5GFFAWG8uEk09E0SmFq2mc1w4AuRHEiYXNnuG3veCRBAzVBALFugFJ6ib-yfkAbfiD6j48yrUB0PFIfXZl-PAWtPv-F6bflP7zBbsl6PzYs78ExKzjiXRij-NuU3VW/lXCePhic2Y7GB7VSfaGQTbgfLipcFImRvgxp9YIjaPqbl1SKZzUUxMmemdWBlv8b_S2gNOWq-H4ovblCtbkpatY3skAtOtmR2jgF045r9-S7eiBYtiEmE3-0XWBZleed/yQip8Lgzl1DnBx8YEKdROjHl3HZb95dBQKOOC9IM9g7-xfbrebUTuYVQm85pIVGJtj5__Sffm23jWp5ogENjPcEBFqEPeL5-LeH7AkccJSc=/)|
 |++Fortnite+Release-7.40.0-CL-4980899-Android|[Download](https://dw.uptodown.com/dwn/Fu5GFFAWG8uEk09E0SmFq2mc1w4AuRHEiYXNnuG3veCYUgA1sZAe6IzXaj3XgRFKEcghT2oepOoQCC7kg1SFlbTt0p33z0TiVGSKNP_mAhbzCIcJtgTkADac4hsJs4p9/xvcuq2_u8wbgCGAtC15DAoxyPAZRg9dcMJdo3K9KMOL2gepWF5YUDB-4xbINdDeABDDvjm40cmuu0rgH4cjIvdMfpWCHrCSeFBPSFFaQw8FA6GlgdkBHVHuvnV3mJ4BV/1vjgKYx_oXUGpQllxCPGnxiVuBQIxTnYZr2p49c-Kb_1tlLX-y2HoNjjrP40Nv2STAfXCbPBfaRSQ-jrs4Sav791jLLn8qYiiT-oFn62giw=/)
 |++Fortnite+Release-7.40.0-CL-5004581-Android|[Download](https://dw.uptodown.com/dwn/Fu5GFFAWG8uEk09E0SmFq2mc1w4AuRHEiYXNnuG3veBIakmZDwxYekraHUs5mMxSsg-OzvllmposCddt4GNqz06JpNme9nycoNy2Cmv1Qc8HV-82SOK-C0v2KGLcW6sQ/qkuJhAddUkaSnDDGAsqVrdl-wmxFUXY6MvgGfwT78Fh6aXcGKfQEPnQ1DcwxeWkzwLIH2eUnjceSdfixjqF-NigEqqNb6xaJV69ZYKEr21RF4AGy-ocegKcjRQOFd6Sy/baLklUU_EU3Io_YZSV24PW-wULxlX11cr1vkmRs2I02K1LEwHOfxoAjok2wRhHsRV8mKPyqE9FPOk5tzCi45occhtlFI3IparFhP23YOpGE=/)
+|++Fortnite+Release-8.00.0-CL-5203069-Android|[Download]
+|++Fortnite+Release-8.01.0-CL-5285981-Android|[Download]
+|++Fortnite+Release-8.10.0-CL-5362200-Android|[Download]
+|++Fortnite+Release-8.10.0-CL-5383041-Android|[Download]
+|++Fortnite+Release-8.20.0-CL-5634769-Android|[Download]
+|++Fortnite+Release-8.20.0-CL-5688020-Android|[Download]
+|++Fortnite+Release-8.30.0-CL-5634769-Android|[Download]
+|++Fortnite+Release-8.40.0-CL-5918056-Android|[Download]
+|++Fortnite+Release-8.50.0-CL-6058028-Android|[Download]
+|++Fortnite+Release-8.51.0-CL-6165369-Android|[Download]
