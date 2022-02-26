@@ -1,6 +1,6 @@
 # Fortnite---Android-APKs-files
 
-|APK|Link|
+|Version|Link|
 |--|--|
 |++Fortnite+Release-5.20-CL-4268994-Android|[Download](https://dw.uptodown.com/dwn/F6CWak-yxrI0JZDUv46qsKnxYzFqZT-nC6XTZEih2ozKzUr0tJMaPBTWe8PBJa3mcCD1y7fFuwK0W2hP24IYBIIRG0Lg2fQyVV9PEOldQKpaH36Ktf2X81Jxkj-ZRXiW/zwthD2STS9qM0lwurRJeuHRH48h3p4pVkQuGAv1atMY8nRNX_xCiEf_y1Cuo_TAJLUyCJCGxYN7wXfR8YHYv6XaNmKp4vJWLzsNLGJauzAejXXOw2gr7sg1oovrvSWpx/-YL0K11R9rRnEEO3L4n8qL6nQXF7TUQU-gNRS2pwb3jnoOjSgCb-Z0G5udgwS8x5jaOR-BlXh6gYXbN_nKhJI1Tnd3Xiai5KDGrIIE4e7CY=/)|
 |++Fortnite+Release-5.20-CL-4276112-Android|[Download](https://dw.uptodown.com/dwn/F6CWak-yxrI0JZDUv46qsKnxYzFqZT-nC6XTZEih2oyFSEssVOx-0etO6TzKg9oD4J7fwI6xVe6HEsSC9J3R2xlrM2VP6Ew3ykTuQArZCJ-chEsLN7gT0Uis0AhfYSlH/HzooiMpKJ908N0V0G-Q1aFYWMrqS_wGaUyFo7URBC6sU1nkCn7xMHltqa-DSiU0hOH46HUBEOKkH9BwgrBdikw1yjHGYrq_YCvnkqhZcJe3QF6fwBRQ78wnITsDcPuhG/6V55YOWgzynpyCylM7ZcDir_fcW1uKCYMI4NjrQyWD7UvzMwMUXlF7HsyO0T7Z9fnKHIibLNDQUdic91ok2LTlHA-aUlLfChLeR-oPplcXI=/)|
