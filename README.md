@@ -1,5 +1,7 @@
 # Fortnite---Android-APKs-files
 
+As the direct links to download change every day, I puted the links to the download button, just click Download to download the apk.
+
 |Version|Link|
 |--|--|
 |++Fortnite+Release-5.20-CL-4268994-Android|[Download](https://dw.uptodown.com/dwn/mbO3yjRNUqNWg67no4Eru_Dyxx311xCx0RK9QdjcvhoSerlf14qQZrId1JKiTLCraDE0Fxs9nL1IOpnITySVVMi5-C9a_7EZWiOmRan5xa2MjUmr9k-VN3psdoOVAg9f/FrQ57YcpTW9nK_2gP_LceGGURNa7cWDB-_bOaBjYhknb_SOev7T_GHTkaM-YEeP0Umkdw-R9qJGhV_41BIZclLd0-pOCMlirFs99o-ci2P9S0wydEAownwnWeW5giVsQ/Z-7831qbn_vgugEokZK0HEWECl4GEr2nXe-ixj-Xm2gCcOWvlp3NxdL4rLfOnNN44n6ohtWF3AWqWwtevjisJZauekqxvY9WvXytr3uaHL8=/)|
