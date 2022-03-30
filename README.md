@@ -1,6 +1,6 @@
 # Fortnite---Android-APKs-files
 
-As the direct links to download change every day, I puted the links to the download button, just click Download to download the apk.
+As the direct links to download change every day, I puted the links to the green download button, just click Download to download the apk.
 
 |Version|Link|
 |--|--|
